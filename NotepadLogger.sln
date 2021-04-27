@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadLogger", "NotepadLogger\NotepadLogger.csproj", "{15E1EF2E-25A9-4C79-B06C-112C812A7BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadLogger.ClassLibrary", "NotepadLogger.ClassLibrary\NotepadLogger.ClassLibrary.csproj", "{8D4AF0F5-CE61-40B7-80E2-77867B48E44B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E1EF2E-25A9-4C79-B06C-112C812A7BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E1EF2E-25A9-4C79-B06C-112C812A7BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E1EF2E-25A9-4C79-B06C-112C812A7BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E1EF2E-25A9-4C79-B06C-112C812A7BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4AF0F5-CE61-40B7-80E2-77867B48E44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4AF0F5-CE61-40B7-80E2-77867B48E44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4AF0F5-CE61-40B7-80E2-77867B48E44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4AF0F5-CE61-40B7-80E2-77867B48E44B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

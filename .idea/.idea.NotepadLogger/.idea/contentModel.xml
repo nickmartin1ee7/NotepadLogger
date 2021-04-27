@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\doort\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\doort\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_NotepadLogger.-946394259.00" t="ExcludeRecursive" />
+    <e p="C:\Users\doort\source\repos\NotepadLogger" t="IncludeFlat">
+      <e p="NotepadLogger" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="NotepadLogger.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="NotepadLogger.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="NotepadLogger.ClassLibrary" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="NotepadInterop.cs" t="Include" />
+        <e p="NotepadLogger.ClassLibrary.csproj" t="IncludeRecursive" />
+        <e p="NotepadWindowSink.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="NotepadLogger.ClassLibrary.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="NotepadLogger.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
